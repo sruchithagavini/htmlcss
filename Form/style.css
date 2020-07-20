@@ -1,0 +1,30 @@
+input{
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+#s{
+    background-color: rgb(50, 177, 177);
+    color: rgb(224, 224, 221);
+    font-weight: bold;
+
+}
+
+#e{
+    background-color: rgb(101, 117, 8);
+    color: rgb(230, 228, 222);
+    font-weight: bold;
+}
+
+#f{
+    background-color: rgb(7, 88, 134);
+    color: rgb(230, 228, 222);
+    font-weight: bold;
+}
+
+#g{
+    background-color: rgb(139, 6, 6);
+    color: rgb(230, 228, 222);
+    font-weight: bold;
+}
